@@ -9,7 +9,7 @@
 
 ##About the System
 
-The Hotel Management System (HMS) is a desktop application built to streamline hotel operations and services. This system includes guest management, room reservations, billing and real-time report generation. Built with C# and MySQL, it ensures efficient performance and a user-friendly interface for front desk staff and administrators.
+The Hotel Management System (HMS) is a desktop application built to streamline hotel operations and services. This system includes guest management, room reservations, billing and real-time invoice generation. Built with C# and MySQL, it ensures efficient performance and a user-friendly interface for front desk staff and administrators.
 
 ## Key Features
 
